@@ -1,0 +1,10 @@
+[06-Jun-2018 09:00:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:00:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:00:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:01:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:02:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:02:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:03:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:03:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[06-Jun-2018 09:05:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jackfocu/public_html/wp-content/themes/firstcom/functions.php on line 262
+[29-Jun-2018 02:24:01 UTC] PHP Notice:  Undefined index: wpURL in /home/jackfocu/public_html/wp-content/plugins/wordfence/lib/wfScanEngine.php on line 1645

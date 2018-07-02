@@ -1,0 +1,1 @@
+[17-Feb-2018 03:42:29 Asia/Singapore] PHP Fatal error:  Call to undefined function post_class() in /home/jackfocu/public_html/wp-includes/theme-compat/embed-content.php on line 13
